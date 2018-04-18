@@ -1,0 +1,15 @@
+/*
+Theme Name: Tema 1
+Author: Juan Luis Oropeza
+Author URI: https://juanloropeza.com.ve/
+Description: Lindo tema
+Version: 1.0
+Tags: black, simple
+*/
+
+.suscribir {
+	background: url('images/bg.png');
+	background-size: cover;
+	background-position: center;
+	height:400px;
+}
